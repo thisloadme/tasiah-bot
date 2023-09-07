@@ -1,7 +1,7 @@
 import logging
 from telegram import ForceReply, Update
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
-from test import get_response
+from chat import get_response
 import os
 from dotenv import load_dotenv
 load_dotenv()
