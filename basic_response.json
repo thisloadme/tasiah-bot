@@ -1,0 +1,21 @@
+{
+    "pembukaan": [
+        "Saya menemukan artikel yang bagus terkait pertanyaan <replaced>: \n",
+        "Halo saya Tasiah, saya menemukan artikel terkait pertanyaan <replaced>: \n",
+        "Ini artikel yang bagus mengenai pertanyaan <replaced>: \n",
+        "Saya menemukan artikel tentang pertanyaanmu <replaced>: \n",
+        "Berikut adalah artikel tentang <replaced>: \n",
+        "Berikut artikel yang saya temukan mengenai <replaced>: \n"
+    ],
+    "penutupan": [
+        "\n Adakah pertanyaan lain yang bisa saya carikan artikelnya?",
+        "\n Semoga artikel ini menjawab pertanyaanmu :)",
+        "\n Ada hal lain terkait Islam yang ingin kamu tanyakan?",
+        "\n Saya sangat senang jika artikel ini membantumu memahami Islam dengan baik :)"
+    ],
+    "tidak_tahu": [
+        "Maaf atas keterbatasan saya, saya belum mengerti dengan maksud kamu, coba tanyakan lagi dengan kalimat yang serupa",
+        "Maaf saya belum mengerti dengan maksud kamu, coba tanyakan lagi dengan kalimat yang serupa",
+        "Saya belum mengerti, bisakah kamu mengetikkan pertanyaan serupa?"
+    ]
+}
