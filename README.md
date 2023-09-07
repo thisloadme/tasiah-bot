@@ -10,6 +10,7 @@ pip install tensorflow
 pip install keras
 pip install matplotlib
 pip install python-telegram-bot
+pip install nltk
 ```
 
 2. rename .env.example menjadi .env
