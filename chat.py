@@ -66,7 +66,7 @@ def get_response(message):
         if random_number <= 40:
             response = response + random.choice(base_resp['penutupan'])
     else:
-        response = base_resp['tidak_tahu']
+        response = random.choice(base_resp['tidak_tahu'])
 
     return response
 
